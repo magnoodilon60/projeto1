@@ -17,3 +17,6 @@ vai mostrar que temos um arquivo untracked
 
 git add nome do arquivo
 
+# projeto o1
+
+meu primeiro contato com o git no cruso do empowerdata
