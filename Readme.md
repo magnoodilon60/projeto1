@@ -15,3 +15,5 @@ git status
 
 vai mostrar que temos um arquivo untracked
 
+git add nome do arquivo
+
