@@ -23,3 +23,4 @@ meu primeiro contato com o git no cruso do empowerdata
 
 -  Adicionando mais uma modificação no readme.md
 -  adicionada uma nova branch
+- adicionada uma nova funcionalidade no app jogo da forca.py
